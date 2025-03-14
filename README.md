@@ -65,9 +65,9 @@
 
 ### Mashing and Deep Learning:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy--CF4647?style=for-the-badge&logo=numpy&logoColor=blue&color=white)
+![Numpy](https://img.shields.io/badge/-Numpy-CF4647?style=for-the-badge&logo=Numpy&logoColor=blue&labelColor=white&color=white)
 ![Pandas](https://img.shields.io/badge/-Pandas--CF4647?style=for-the-badge&logo=pandas&logoColor=white&label=Pandas&labelColor=blue&color=blue)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-CF4647?style=for-the-badge&logo=tensorflow&logoColor=orange&labelColor=white&color=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-CF4647?style=for-the-badge&logo=pytorch&logoColor=orange&labelColor=white&color=white)
 
@@ -75,7 +75,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Golang](https://img.shields.io/badge/-CF4647?style=for-the-badge&logo=Go&logoColor=cyan&labelColor=white&color=white)
+![Golang](https://img.shields.io/badge/-Golang-CF4647?style=for-the-badge&logo=Go&logoColor=white&labelColor=blue&color=blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Other Tools:
