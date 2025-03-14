@@ -5,7 +5,7 @@
 |University|Description|
 |:----:|:-----|
 |HSE| (2023  — 2027) Bachelor of Computer Science|
-|Stanford| (2025  — now) Specialist in machine learning|
+|Stanford| (2025  — now) Specialist in Machine Learning|
 
 
 ### My CV's
