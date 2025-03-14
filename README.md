@@ -66,10 +66,11 @@
 ### Mashing and Deep Learning:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-CF4647?style=for-the-badge&logo=Numpy&logoColor=blue&labelColor=white&color=white)
-![Pandas](https://img.shields.io/badge/-Pandas--CF4647?style=for-the-badge&logo=pandas&logoColor=white&label=Pandas&labelColor=blue&color=blue)
+![Pandas](https://img.shields.io/badge/-Pandas--CF4647?style=for-the-badge&logo=pandas&logoColor=white&label=Pandas&labelColor=red&color=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-CF4647?style=for-the-badge&logo=tensorflow&logoColor=orange&labelColor=white&color=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-CF4647?style=for-the-badge&logo=pytorch&logoColor=orange&labelColor=white&color=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit%20learn-CF4647?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=scikit-learn&labelColor=orange&color=orange)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-CF4647?style=for-the-badge&logo=tensorflow&logoColor=orange&labelColor=white&color=white)
 
 ### Backend:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,7 +92,7 @@
 ## Natural Languages
 <p align="center">
 
-|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="С1"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/Poland.png"/></a>|
+|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="С1"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="B2"><img align="left" width="45px" src="resourses/natural-languages/german.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/czech.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/south-korean.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/french.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/Poland.png"/></a>|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 
 </p>
