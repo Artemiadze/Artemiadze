@@ -4,8 +4,8 @@
 ### Education
 |University|Description|
 |:----:|:-----|
-|HSE| (2023  — 2027) Bachelor of Computer Science|
-|Stanford| (2025  — now) Specialist in Machine Learning|
+|Higher School of Economics| (2023  — 2027) Bachelor of Computer Science|
+|Stanford University| (2025  — now) Specialist in Machine Learning|
 
 
 ### My CV's
