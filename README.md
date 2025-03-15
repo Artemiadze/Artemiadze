@@ -93,7 +93,7 @@
 ## Natural Languages
 <p align="center">
 
-|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="B2"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="A2"><img align="left" width="45px" src="resourses/natural-languages/Poland.png"/></a>|
+|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="B2"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="A2"><img align="left" width="45px" src="resourses/natural-languages/poland.jpg"/></a>|
 |:----:|:----:|:----:|
 
 </p>
