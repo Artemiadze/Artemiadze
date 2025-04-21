@@ -5,7 +5,7 @@
 |University|Description|
 |:----:|:-----|
 |Higher School of Economics| (2023  — 2027) Bachelor of Computer Science|
-|Stanford University| (2025  — now) Specialist in Machine Learning|
+|Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
 
 ### My CV's
@@ -27,7 +27,7 @@
 </p>
 
 - ⚙️ I’m currently working on Project: [Приложении по организации совместных обедов](https://github.com/t-lunch)
-- 💡 I’m still learning [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
+- 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 - ⚡ Fun fact: Мой любимый цвет - осенний!
 <!--
 ## Skills, Languages, Frameworks and Stuff
