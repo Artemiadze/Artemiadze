@@ -25,7 +25,6 @@
 |<img align="left" width="45px" src="resourses/machine-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/deep-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/artificial-intelligence.svg" class="shades-of-purple"/>
 
 </p>
-
 - ⚙️ I’m currently working on Project: [Приложении по организации совместных обедов](https://github.com/t-lunch)
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 - ⚡ Fun fact: Мой любимый цвет - осенний!
@@ -58,6 +57,9 @@
 
 </details> -->
 
+## 🤝 Let's Connect
+[Kaggle](https://www.kaggle.com/vlasovartyom)
+[LinkedIn](https://www.linkedin.com/in/artyom-vlasov-a84497361)
 
 
 ## 🌐 Languages and Tools 🛠️
