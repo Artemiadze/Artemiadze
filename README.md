@@ -46,6 +46,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-CF4647?style=for-the-badge&logo=Numpy&logoColor=blue&labelColor=white&color=white)
 ![Pandas](https://img.shields.io/badge/-Pandas--CF4647?style=for-the-badge&logo=pandas&logoColor=white&label=Pandas&labelColor=red&color=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=OpenCV&logoColor=red&labelColor=black&color=black)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-CF4647?style=for-the-badge&logo=pytorch&logoColor=orange&labelColor=white&color=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit%20learn-CF4647?style=for-the-badge&logo=scikit-learn&logoColor=white&logoSize=scikit-learn&labelColor=orange&color=orange)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-CF4647?style=for-the-badge&logo=tensorflow&logoColor=orange&labelColor=white&color=white)
