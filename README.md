@@ -11,7 +11,7 @@
 |Workplace|Position|
 |:----:|:----:|
 |Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
-|TBank|2025| (2025) Backend developer (trainee)|
+|T-Bank| (2025) Backend developer (trainee)|
 
 ### My CV's
 
@@ -24,21 +24,14 @@
 
 
 ### 💬 Interests
-|<img align="left" width="45px" src="resourses/math.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/further-math.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/algorithm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/data-structure.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/software-development.svg" class="shades-of-purple"/>
+|<img align="left" width="45px" src="resourses/further-math.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/algorithm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/data-structure.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/software-development.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/money.svg" class="shades-of-purple"/>
 |----|----|----|----|----|
-|<img align="left" width="45px" src="resourses/machine-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/deep-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/artificial-intelligence.svg" class="shades-of-purple"/>
+|<img align="left" width="45px" src="resourses/ai.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/machine-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/deep-learning.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/artificial-intelligence.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/football.svg" class="shades-of-purple"/>
 
 </p>
 
 - ⚙️ My best and favourite project: [An application for organizing joint dinners](https://github.com/t-lunch)
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
-
-## 🤝 Let's Connect
-<!-- [Kaggle](https://www.kaggle.com/vlasovartyom) -->
-![Kaggle](https://img.shields.io/badge/Kaggle-3776AB?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.kaggle.com%2Fvlasovartyom)
-<!-- [LinkedIn](https://www.linkedin.com/in/artyom-vlasov-a84497361) -->
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartyom-vlasov-a84497361)
-![Telegram](https://img.shields.io/badge/Telegram-3776AB?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=%40Artemi_HSE)
 
 ### 💬 Social
 | <a href="https://t.me/Artemi_HSE"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/misterzurg"><img align="left" width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a>
