@@ -8,10 +8,14 @@
 |Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
 ### Work
+
+<p align="center">
+
 |Workplace|Position|
 |:----:|:----:|
 |Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
 |T-Bank| (2025) Backend developer (trainee)|
+</p align="center">
 
 ### My CV's
 
@@ -34,7 +38,7 @@
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 
 ### 💬 Social
-| <a href="https://t.me/Artemi_HSE"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/misterzurg"><img align="left" width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a>
+| <a href="https://t.me/Artemi_HSE"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://www.kaggle.com/vlasovartyom"><img align="left" width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a>
 |----|----|----|
 
 ## 🌐 Languages and Tools 🛠️
