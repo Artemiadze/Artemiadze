@@ -18,7 +18,7 @@
 <p align="center">
 
 |Backend/ML|
-|:----:|:-----:|
+|:----:|
 |<p align="center"><a href="./CV/Impulse_resume_template.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>
 </p align="center">
 
@@ -34,10 +34,11 @@
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 
 ## 🤝 Let's Connect
-[Kaggle](https://www.kaggle.com/vlasovartyom)
+<!-- [Kaggle](https://www.kaggle.com/vlasovartyom) -->
 ![Kaggle](https://img.shields.io/badge/Kaggle-3776AB?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.kaggle.com%2Fvlasovartyom)
-[LinkedIn](https://www.linkedin.com/in/artyom-vlasov-a84497361)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartyom-vlasov-a84497361\)
+<!-- [LinkedIn](https://www.linkedin.com/in/artyom-vlasov-a84497361) -->
+![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartyom-vlasov-a84497361)
+![Telegram](https://img.shields.io/badge/Telegram-3776AB?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=%40Artemi_HSE)
 
 
 ## 🌐 Languages and Tools 🛠️
