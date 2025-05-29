@@ -8,10 +8,10 @@
 |Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
 ### Work
-|Workplace|Year|Position|
-|:----:|:----:|:----:|
-|Volga State University of Water Transport|2024|Lecturer of the course on algorithms and programming|
-|TBank|2025|Backend developer (trainee)|
+|Workplace|Position|
+|:----:|:----:|
+|Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
+|TBank|2025| (2025) Backend developer (trainee)|
 
 ### My CV's
 
@@ -40,6 +40,9 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartyom-vlasov-a84497361)
 ![Telegram](https://img.shields.io/badge/Telegram-3776AB?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=blue&color=blue&link=%40Artemi_HSE)
 
+### 💬 Social
+| <a href="https://t.me/Artemi_HSE"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/misterzurg"><img align="left" width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a>
+|----|----|----|
 
 ## 🌐 Languages and Tools 🛠️
 
