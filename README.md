@@ -7,15 +7,19 @@
 |Higher School of Economics| (2023  — 2027) Bachelor of Computer Science|
 |Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
+### Work
+|Workplace|Year|Position|
+|:----:|:----:|:----:|
+|Volga State University of Water Transport|2024|Lecturer of the course on algorithms and programming|
+|TBank|2025|Backend developer (trainee)|
 
 ### My CV's
 
 <p align="center">
 
-|Backend|ML|
+|Backend/ML|
 |:----:|:-----:|
-|<p align="center"><a href="./CV/Impulse_resume_template.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><a href="./CV/Impulse_resume_template.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
-
+|<p align="center"><a href="./CV/Impulse_resume_template.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>
 </p align="center">
 
 
@@ -26,41 +30,14 @@
 
 </p>
 
-- ⚙️ I’m currently working on Project: [Приложении по организации совместных обедов](https://github.com/t-lunch)
+- ⚙️ My best and favourite project: [An application for organizing joint dinners](https://github.com/t-lunch)
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
-- ⚡ Fun fact: Мой любимый цвет - осенний!
-<!--
-## Skills, Languages, Frameworks and Stuff
-> Click 4 expanding the slider -->
-
-<!--
-<details>
-  <summary>BackEnd</summary>
-
-|Prof.|<img align="left" width="45px" src="resourses/cyber-security.svg" class="shades-of-purple"/>|<img align="left" width="55px" src="resourses/go.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/python.svg" class="shades-of-purple"/>| <img align="left" width="45px" src="resourses/java.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/bash.svg" class="shades-of-purple"/>
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|<img align="left" width="45px" src="resourses/algorithm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/data-structure.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="resourses/linux.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/gitlab.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/speaker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/cisco.svg" class="shades-of-purple"/>|<br />
-
-|Famil.|<img align="left" width="45px" src="resourses/javascript.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vue-js.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vuetify.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/material-design.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/postgresql.svg" class="shades-of-purple"/>
-|:----:|:----:|:----:|:----:|:----:|:----:|
-|<img align="left" width="45px" src="resourses/prometheus.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/thanos.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/grafana.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kafka.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/opencv.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/google-cloud.svg" class="shades-of-purple"/>
-|<img align="left" width="45px" src="resourses/docker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kubernetes.svg" class="shades-of-purple"/>
-
-## IDE's
-|<img align="left" width="45px" src="resourses/jetbrains.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/goland.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/pycharm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/intellij-idea.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/webstorm.svg" class="shades-of-purple"/>
-|:----:|:----:|:----:|:----:|:----:| -->
-<!-- </details>
-
-
-<details>
-  <summary>Data Science</summary>
-
-
-</details> -->
 
 ## 🤝 Let's Connect
 [Kaggle](https://www.kaggle.com/vlasovartyom)
+![Kaggle](https://img.shields.io/badge/Kaggle-3776AB?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.kaggle.com%2Fvlasovartyom)
 [LinkedIn](https://www.linkedin.com/in/artyom-vlasov-a84497361)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fartyom-vlasov-a84497361\)
 
 
 ## 🌐 Languages and Tools 🛠️
