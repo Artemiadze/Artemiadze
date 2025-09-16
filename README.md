@@ -14,7 +14,8 @@
 |Workplace|Position|
 |:----:|:----:|
 |Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
-|T-Bank| (2025) Backend developer (trainee)|
+|T-Bank| (2025) Golang Backend developer (trainee)|
+|Media-Main| (2025) Python developer (trainee) |
 </p align="center">
 
 ### My CV's
@@ -47,6 +48,7 @@
 
 ### Mashing and Deep Learning:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-CF4647?style=for-the-badge&logo=Numpy&logoColor=blue&labelColor=white&color=white)
 ![Pandas](https://img.shields.io/badge/-Pandas--CF4647?style=for-the-badge&logo=pandas&logoColor=white&label=Pandas&labelColor=red&color=red)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
@@ -56,15 +58,15 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-CF4647?style=for-the-badge&logo=tensorflow&logoColor=orange&labelColor=white&color=white)
 
 ### Backend:
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-CF4647?style=for-the-badge&logo=Go&logoColor=white&labelColor=blue&color=blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Other Tools:
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-CF4647?style=for-the-badge&color=yellow)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PyTest](https://img.shields.io/badge/Pytest-007396?style=for-the-badge&logo=pytest&logoColor=red&color=green)
+![Golang](https://img.shields.io/badge/-Golang-CF4647?style=for-the-badge&logo=Go&logoColor=white&labelColor=blue&color=blue)
+![Testify](https://img.shields.io/badge/Testify-007396?style=for-the-badge&logo=testify&logoColor=white&color=blue)
+![Fast_API](https://img.shields.io/badge/Fast%20API-F05032?style=for-the-badge&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
