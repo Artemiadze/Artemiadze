@@ -7,6 +7,12 @@
 |Higher School of Economics| (2023  — 2027) Bachelor of Computer Science|
 |Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
+### Courses
+|Organization|Course|
+|:----:|:----:|
+|Oxford Home Study Centre|Artificial Intelligence in Business|
+
+
 ### Work
 
 <p align="center">
