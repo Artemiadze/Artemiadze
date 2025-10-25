@@ -30,7 +30,7 @@
 
 |Backend/ML|
 |:----:|
-|<p align="center"><a href="./CV/ArtyomVlasov-CV-June-2025.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>
+|<p align="center"><a href="./CV/ArtyomVlasov-CV-October-2025.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>
 </p align="center">
 
 
