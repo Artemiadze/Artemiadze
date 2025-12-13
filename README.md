@@ -21,7 +21,7 @@
 |:----:|:----:|
 |Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
 |T-Bank| (2025) Golang Backend developer (trainee)|
-|Media-Main| (2025) Python developer (trainee) |
+|Media-Main| (2025) Python developer & Rust developer	 (trainee) |
 </p align="center">
 
 ### My CV's
