@@ -7,12 +7,6 @@
 |Higher School of Economics| (2023  — 2027) Bachelor of Computer Science|
 |Stanford University| (2024  — 2025) [Specialist in Machine Learning](CV/Stanford_Diploma_Vlasov_Artyom.pdf)|
 
-### Courses
-|Organization|Course|
-|:----:|:----:|
-|Oxford Home Study Centre|Artificial Intelligence in Business|
-
-
 ### Work
 
 <p align="center">
@@ -21,7 +15,7 @@
 |:----:|:----:|
 |Volga State University of Water Transport| (2024) Lecturer of the course on algorithms and programming|
 |T-Bank| (2025) Golang Backend developer (trainee)|
-|Media-Main| (2025) Python developer & Rust developer	 (Intern) |
+|Media-Main| (2025 - now) Python developer & Rust developer	 (Intern)|
 </p align="center">
 
 ### My CV's
@@ -41,12 +35,14 @@
 
 </p>
 
+- ⚡ My own library: [RENERT: Rust extractor of named entities from Russian texts](https://github.com/media-tel/renert)
 - ⚙️ My best and favourite project: [An application for organizing joint dinners](https://github.com/t-lunch)
 - 💡 I got a diploma of [Mashing Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll)
 
 ### 💬 Social
-| <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://www.kaggle.com/vlasovartyom"><img align="left" width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a>
-|----|----|----|
+
+| <a href="https://www.linkedin.com/in/artyom-vlasov-a84497361"><img width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a> | <a href="https://www.kaggle.com/vlasovartyom"><img width="45px" src="resourses/kaggle.svg" class="shades-of-purple"/></a> |
+|---|---|
 
 ## 🌐 Languages and Tools 🛠️
 
@@ -79,7 +75,6 @@
 </div>
 
 
-
 ## Natural Languages
 <p align="center">
 
@@ -96,4 +91,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Artemiadze&show_icons=true&theme=shades-of-purple" alt="Artemiadze" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemiadze&hide=html,jupyter%20notebook&theme=shades-of-purple&layout=compact">
 </p>
-
